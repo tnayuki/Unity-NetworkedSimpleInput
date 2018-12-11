@@ -1,0 +1,19 @@
+﻿[{
+    "$TypeId": 3,
+    "Id": "1ade12d9f76e45a1b9bb71438e429dfd",
+    "Name": "NetworkMovement",
+    "ExportFlags": 0,
+    "Unlisted": false,
+    "Visibility": 0,
+    "TypeCode": "Component",
+    "Fields": [{
+        "Id": "b4a615e1a8e24d7aad345bf858aacd56",
+        "Name": "actorNr",
+        "FieldType": { "Id": "9633c95a0a68473682f09ed6a01194b4", "Name": "Int32" },
+        "Array": false,
+        "Visibility": 0
+    }],
+    "DefaultValue": {
+        "Type": { "Id": "1ade12d9f76e45a1b9bb71438e429dfd", "Name": "NetworkMovement" }
+    }
+}]
